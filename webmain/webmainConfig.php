@@ -9,7 +9,7 @@ return array(
 	'weblogo'	=> '',	//PC客户端上的logo图片
 	'db_host'	=> '127.0.0.1',	//数据库地址
 	'db_user'	=> 'root',	//数据库用户名
-	'db_pass'	=> 'Wdp@2009',	//数据库密码
+	'db_pass'	=> 'root',	//数据库密码
 	'db_base'	=> 'xinhu',	//数据库名称
 	'perfix'	=> 'hailang_',	//数据库表名前缀
 	'qom'	=> 'xinhu_',	//session、cookie前缀

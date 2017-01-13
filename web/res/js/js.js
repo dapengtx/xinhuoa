@@ -526,6 +526,7 @@ js.ajax 	 = function(m,a,d,funs, mod,checs, erfs){
 			js.setmsg(ret.msg);	
 			js.msg('msg', 'err1:'+ret.msg);
 			erfs(ret.msg);
+            if (ret.code = 199) location.href = "login.html"
 		}else{
 			js.setmsg('');
 			js.msg('none');
